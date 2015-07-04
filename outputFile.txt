@@ -1,0 +1,8 @@
+There are 291 vowels in this text file
+There are 498 consonants in this text file
+There are 12 sentences in this text file
+There are 146 words in this text file
+There are 2 questions in this text file
+There are on average 5.44 characters in each word
+There are on average 65.75 characters in each sentence
+End of Program
